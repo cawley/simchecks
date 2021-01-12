@@ -1,0 +1,8 @@
+public class Point{
+  public Point (String code, String name){
+    code = Homework.getCode();
+    String n = name;
+  }
+  
+  
+}
