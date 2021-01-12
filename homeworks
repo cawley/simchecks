@@ -1,0 +1,27 @@
+public class Homework
+{
+	private String name;   
+     private String code; 
+  
+
+     public Homework(String n, String c)
+	{
+		name = n;
+		code = c;
+	}
+
+	public String getName()
+	{
+		return name;
+	}
+
+	public String getCode()
+	{
+		return code;
+	}
+
+	public String toString()
+	{
+		return name;
+	}
+}
